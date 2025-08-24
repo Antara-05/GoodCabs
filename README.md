@@ -28,4 +28,20 @@ The two databases are as follows:
 The dataset spans from January 1, 2024, to June 30, 2024.
 
 ## Dadhboard
+## 🏠 Login Page
+
+![Login Page](https://github.com/Pravesh-Agarwal/Goodcabs-Operations-Analysis/blob/main/Resources/BI%20Dashboard/Images/Login%20Page.png)
+
+## 📊 Executive Dashboard
+
+![Executive Dashboard](https://github.com/Pravesh-Agarwal/Goodcabs-Operations-Analysis/blob/main/Resources/BI%20Dashboard/Images/Executive%20Dashboard.png)
+
+## 🏙️ City Dashboard
+
+![City Dashboard](https://github.com/Pravesh-Agarwal/Goodcabs-Operations-Analysis/blob/main/Resources/BI%20Dashboard/Images/City%20Dashboard.png)
+
+## 👨‍👩‍👧 Passenger Dashboard
+
+![Passenger Dashboard](https://github.com/Pravesh-Agarwal/Goodcabs-Operations-Analysis/blob/main/Resources/BI%20Dashboard/Images/Passenger%20Dashboard.png)
+
 
